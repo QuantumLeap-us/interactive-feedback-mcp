@@ -1,5 +1,7 @@
 # Interactive Feedback MCP
 
+[![smithery badge](https://smithery.ai/badge/@QuantumLeap-us/interactive-feedback-mcp)](https://smithery.ai/server/@QuantumLeap-us/interactive-feedback-mcp)
+
 Developed by Fábio Ferreira ([@fabiomlferreira](https://x.com/fabiomlferreira)).
 Check out [dotcursorrules.com](https://dotcursorrules.com/) for more AI development enhancements.
 
@@ -36,6 +38,14 @@ The "Save Configuration" button in the UI primarily saves the current command ty
 ## Installation (Cursor)
 
 ![Instalation on Cursor](https://github.com/noopstudios/interactive-feedback-mcp/blob/main/.github/cursor-example.jpg?raw=true)
+
+### Installing via Smithery
+
+To install interactive-feedback-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@QuantumLeap-us/interactive-feedback-mcp):
+
+```bash
+npx -y @smithery/cli install @QuantumLeap-us/interactive-feedback-mcp --client claude
+```
 
 1.  **Prerequisites:**
     *   Python 3.11 or newer.
